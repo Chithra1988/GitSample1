@@ -3,6 +3,7 @@
   {
   c = a+b;
   add method
+  printf(c);
   return(0);
   }
   
