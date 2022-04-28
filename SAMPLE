@@ -2,6 +2,7 @@
   void main()
   {
   c = a+b;
+  add method
   return(0);
   }
   
